@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppAcademiaArLivre</string>
+
+    <string name="facebook_app_id">577622529029762</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_nome">Nome</string>
+    <string name="action_signUp">Sign Up</string>
+    <string name="action_cadastrar">Criar nova conta</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
