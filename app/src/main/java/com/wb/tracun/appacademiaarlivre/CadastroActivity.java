@@ -53,7 +53,6 @@ public class CadastroActivity extends AppCompatActivity {
 
             GerenciaBD gerenciaBD = new GerenciaBD(this);
 
-
             Toast.makeText(this, gerenciaBD.inserir(usuario), Toast.LENGTH_SHORT).show();
 
             Intent intencao = new Intent(this, Login2Activity.class);
